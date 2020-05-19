@@ -8,7 +8,7 @@ public class NameAge{
 	System.out.println("");
 	System.out.println("");
 	System.out.println("");
-	System.out.println("-----------NameAge----------");
+	System.out.println("-----------NameAge--------");
 	System.out.println("");
 	System.out.println("");
 
